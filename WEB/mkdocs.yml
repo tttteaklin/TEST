@@ -1,0 +1,8 @@
+site_name: ALTHAEA ENCYLOPAEDIA 阿尔泰亚百科
+site_description: 阿尔泰亚议会为创作者们提供的一些帮助
+site_author: tttteaklin
+
+nav: 
+      - 首页 : index.md
+      - 指引 : test.md
+      - 尝试页面 : test2.md
